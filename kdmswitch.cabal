@@ -14,4 +14,4 @@ cabal-version:       >=1.8
 executable kdmswitch
   main-is:           KDMSwitch.hs
   -- other-modules:       
-  build-depends:     base ==4.5.*, parsec, process
+  build-depends:     base ==4.5.*, parsec, process, containers
